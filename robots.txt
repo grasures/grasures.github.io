@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://grasures.github.io/sitemap.html.gz
+Sitemap: https://grasures.github.io/app/sitemap.html.gz
+Sitemap: https://grasures.github.io/assets/sitemap.html.gz
+Sitemap: https://grasures.github.io/css/sitemap.html.gz
+Sitemap: https://grasures.github.io/includes/sitemap.html.gz
+Sitemap: https://grasures.github.io/item/sitemap.html.gz
+Sitemap: https://grasures.github.io/src/sitemap.html.gz
